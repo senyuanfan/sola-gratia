@@ -17,3 +17,5 @@ for the Sola Gratia Band at MVCCC.
 - Keep charts simple (lyrics + chords)
 - Use notation only when necessary
 - Do not hardcode keys unless intentional
+
+## Usage
