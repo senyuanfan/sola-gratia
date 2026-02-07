@@ -1,0 +1,20 @@
+{new_song}
+{title: 住在你里面}
+{key: D}
+{subtitle: 赞美之泉}
+{c: V -> Chorus -> V -> Chorus x2}
+
+{start_of_verse: Verse}
+[D]在干旱无水[A/C#]之地 我[G/B]渴慕[D/A]你
+[D]在旷野无人[A/C#]之处 我[G/B]寻求[D/A]你
+[G]得救在乎[D/F#]归回安[Em]息[A]
+[G]得力在乎[D/F#]平静安[Em]稳[A]
+[Bm]我等候[A]你 如鹰[G]展翅上[A]腾
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[D]住在你[A/C#]里面 [Bm]住在你[A]里面
+[G]如同枝子[D/F#]与葡萄树[Em]紧紧相[A]连
+[D]住在你[A/C#]里面 [Bm]住在你[A]里面
+[G]领受生命[D/F#]活水泉源[Em]永不[A]枯[D]竭
+{end_of_chorus}

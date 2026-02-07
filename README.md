@@ -19,3 +19,18 @@ for the Sola Gratia Band at MVCCC.
 - Do not hardcode keys unless intentional
 
 ## Usage
+
+- ChordPro renderer releases: https://github.com/ChordPro/chordpro/releases
+- ChordPro documentation: https://www.chordpro.org/chordpro/home/
+- Follow OS-specific instruction to install ChordPro program first
+- e.g. on Windows, add ChordPro to PATH
+    ```
+    $oldpath = [Environment]::GetEnvironmentVariable("PATH", "User")
+    $newpath = "$oldpath;C:\Program Files\ChordPro.ORG\ChordPro"
+    [Environment]::SetEnvironmentVariable("PATH", $newpath, "User")
+    ```
+    Then restart your terminal, or apply to the current session with:
+    ```
+    $env:PATH += ";C:\Program Files\ChordPro.ORG\ChordPro"
+    ```
+- 

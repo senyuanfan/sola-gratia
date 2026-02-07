@@ -1,0 +1,36 @@
+{new_song}
+{title: 我知谁掌管明天}
+{key: A}
+{subtitle: 的：di}
+{c: Intro(Piano) -> V1(+Guitar) Chorus -> V2(+Bass) Chorus -> 间奏 -> V3 Chorus -> Chorus -> 尾句 -> Outro}
+
+{start_of_bridge: Intro}
+[A] [A7] [D] [A] [E7] [A]
+{c: 简谱: 67(#1) (#1)76(#5)(#4) 67(#1)  3(#5)76}
+{end_of_bridge}
+
+{start_of_verse: Verse 1}
+我不[A]知明天的[A7]道路，每一[D]天 只[E]為主[A]活，
+我不[D]借明天的[A]太阳，因明[Bm]天 或许阴[E7]暗，
+我不[A]要為將來[A7]憂慮，因我[D]信 主[E]的應[A]許，
+我要[D]今天與主[A]同行，因祂[Bm]知 前[E]面如[A]何。
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+每一步[A]越走越[A7]光明，像攀[D]登 黃[E]金階[A]梯，
+每重擔[D]越挑越[A]輕省，每朵[Bm]雲 披上銀[E7]衣，
+在那裡[A]陽光常[A7]普照，在那[D]里 没[E]有眼[A]泪，
+在美麗[D]彩虹的[A]尽头，众山[Bm]岭 與[E]天相[A]連。
+{end_of_verse}
+
+{start_of_verse: Verse 3}
+我不[A]知明天的[A7]道路，或遭[D]遇 生[E]活苦[A]楚，
+但那位[D]养活麻[A]雀者，祂必[Bm]然 也看顧[E7]我，
+祂是我[A]旅途的[A7]良伴，或经[D]过 水[E]火之[A]灾，
+但救主[D]必與我[A]同在，祂寶[Bm]血 把[E]我遮[A]蓋。
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[A7]有許多 [D]未來的事情，我現[A]在 [Bm]不能識[B7]透，[E7]
+[A]但我知 [A7]誰掌管[G]明天，我也[D]知誰[A]牽我[E7]手。[A]
+{end_of_chorus}
